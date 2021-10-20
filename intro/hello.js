@@ -1,5 +1,5 @@
 function sayHello(name) {
     return "Hello " + name;
 }
-var response = sayHello("Johan");
-console.log(response);
+var message = sayHello("Johan");
+console.log(message);

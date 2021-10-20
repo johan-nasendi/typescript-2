@@ -3,6 +3,6 @@ function sayHello(name: string)
     return `Hello ${name}`
 }
 
-let response: string = sayHello("Johan");
+let message: string = sayHello("Johan");
 
-console.log(response);
+console.log(message);
